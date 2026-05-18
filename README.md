@@ -2,6 +2,10 @@
 
 ## Project Overview
 
+<img width="1279" height="301" alt="Travelmemory" src="https://github.com/user-attachments/assets/785ed40a-337d-4fcd-9f17-5192ef43c02b" />
+
+# AWS System Architecture
+
 This project demonstrates the deployment of the **TravelMemory** MERN Stack application on **Amazon EC2** with:
 
 - Backend deployment using Node.js
